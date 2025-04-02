@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <details>
 <summary><b>Languages</b></summary>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40"/>
 </details>
 
 <details>
@@ -48,22 +48,22 @@ Here are some ideas to get you started:
 
 <details>
 <summary><b>AI/ML</b></summary>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
 </details>
 
 <details>
 <summary><b>Data Visualisation</b></summary>
-    <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" width="100"/>
+    <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" height="40"/>
 </details>
 
 <details>
 <summary><b>DevOps</b></summary>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
 </details>
 
 <details>
 <summary><b>Others</b></summary>
-    <img src="https://info.hl7.org/hubfs/HL7_International_tucked-inR-3.png" width="100"/>
+    <img src="https://info.hl7.org/hubfs/HL7_International_tucked-inR-3.png" height="40"/>
 </details>
 
 ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-dark-mode-only)

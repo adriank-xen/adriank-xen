@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 ### What I Do 💼
 <details>
 <summary>📊 Data Science</summary>
-- Fraud risk prediction with financial data 💰
-- Machine learning model for disease outbreak prediction <a href="https://healthtechasia.co/made-in-malaysia-qmed-asia-keeps-it-local-with-generative-ai-solutions/">(Qmed Nora)</a> 🦠
-- Patient data analytics 
+- Fraud risk prediction with financial data 💰 <br>
+- Machine learning model for disease outbreak prediction <a href="https://healthtechasia.co/made-in-malaysia-qmed-asia-keeps-it-local-with-generative-ai-solutions/">(Qmed Nora)</a> 🦠 <br>
+- Patient data analytics <br>
 - Healthcare process optimisation through vital signs monitoring integration over HL7 protocol 💉
 </details>
 
 <details>
 <summary>🤖 Full-Stack Developer</summary>
-- Data Visualisation platform for queue performance
-- Built an e-onboarding platform <a href="https://github.com/adriank-xen/PPSY-E-Onboarding-FYP">(PPSY E-onboarding Platform)</a>
+- Data Visualisation platform for queue performance <br>
+- Built an e-onboarding platform <a href="https://github.com/adriank-xen/PPSY-E-Onboarding-FYP">(PPSY E-onboarding Platform)</a> <br>
 - Create a data visualisation website with D3 for analysing brain drain in South East Asia <a href="https://github.com/adriank-xen/migration-dv">migration-dv</a>
 </details>
 

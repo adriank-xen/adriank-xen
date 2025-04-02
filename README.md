@@ -61,10 +61,12 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: space-between;">
   <div>
     ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
     ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-light-mode-only)
   </div>
   <div>
     ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+    
     ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/languages.svg#gh-light-mode-only)
   </div>
 </div>

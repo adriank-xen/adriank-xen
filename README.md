@@ -58,15 +58,7 @@ Here are some ideas to get you started:
 #### Others
 <img src="https://info.hl7.org/hubfs/HL7_International_tucked-inR-3.png" width="20"/>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-    ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  </div>
-  <div>
-    ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-    
-    ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/languages.svg#gh-light-mode-only)
-  </div>
-</div>
+![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/languages.svg#gh-light-mode-only)

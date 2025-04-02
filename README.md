@@ -36,29 +36,35 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 
 <details>
-<summary>Languages</summary>
+<summary>**Languages**</summary>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50"/>
 </details>
 
+<details>
+<summary>**Frameworks**</summary>
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="50"/>
+</details>
 
-#### Frameworks 
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="20"/>
+<details>
+<summary>**AI/ML**</summary>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+</details>
 
-#### Styling
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="20"/>
+<details>
+<summary>**Data Visualisation**</summary>
+    <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" width="50"/>
+</details>
 
-#### AI/ML
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="20"/>
+<details>
+<summary>**DevOps**</summary>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+</details>
 
-#### Data Visualisation
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="20"/>
-
-#### DevOps
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/>
-
-#### Others
-<img src="https://info.hl7.org/hubfs/HL7_International_tucked-inR-3.png" width="20"/>
+<details>
+<summary>**Others**</summary>
+    [<img src="https://info.hl7.org/hubfs/HL7_International_tucked-inR-3.png" width="50"/>](https://www.hl7.org/implement/standards/)
+</details>
 
 ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/adriank-xen/github-stats/master/generated/overview.svg#gh-light-mode-only)

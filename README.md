@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <details>
 <summary>📊 Data Science</summary>
 - Fraud risk prediction with financial data 💰
-- Machine learning model for disease outbreak prediction [(Qmed Nora)](https://healthtechasia.co/made-in-malaysia-qmed-asia-keeps-it-local-with-generative-ai-solutions/) 🦠
+- Machine learning model for disease outbreak prediction <a href="https://healthtechasia.co/made-in-malaysia-qmed-asia-keeps-it-local-with-generative-ai-solutions/">(Qmed Nora)</a> 🦠
 - Patient data analytics 
 - Healthcare process optimisation through vital signs monitoring integration over HL7 protocol 💉
 </details>
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <details>
 <summary>🤖 Full-Stack Developer</summary>
 - Data Visualisation platform for queue performance
-- Built an e-onboarding platform [(PPSY E-onboarding Platform)](https://github.com/adriank-xen/PPSY-E-Onboarding-FYP)
-- Create a data visualisation website with D3 for analysing brain drain in South East Asia [migration-dv](https://github.com/adriank-xen/migration-dv)
+- Built an e-onboarding platform <a href="https://github.com/adriank-xen/PPSY-E-Onboarding-FYP">(PPSY E-onboarding Platform)</a>
+- Create a data visualisation website with D3 for analysing brain drain in South East Asia <a href="https://github.com/adriank-xen/migration-dv">migration-dv</a>
 </details>
 
 ### 🛠️ Tech Stack

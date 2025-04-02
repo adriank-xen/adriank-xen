@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 
-#### Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/>
+<details>
+<summary>Languages</summary>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50"/>
+</details>
 
 
 #### Frameworks 
